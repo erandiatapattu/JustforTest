@@ -84,7 +84,7 @@ milestones:
   - title: Milestone Test
     description: mileston test description
     due_on: 2023-03-23
-    state: close
+    state: closed
   - title: Test milestone
     description: mileston test 3
     due_on: 2024-04-24
