@@ -80,15 +80,19 @@ milestones:
   - title: Hello issue (Milestone)
     description: Changed description of Hello Issue
     due_on: 2018-03-29T8:00:00Z
-    state: open
+    state: close
   - title: Milestone Test
     description: mileston test description
-    due_on: 2019-04-21T7:55:42Z
-    state: closed
+    due_on: 2024-04-21T7:55:42Z
+    state: open
   - title: New milestone
     description: mileston test 3
-    due_on: 2020-04-21T7:55:42Z
-    state: closed
+    due_on: 2025-04-21T7:55:42Z
+    state: open
+  - title: Final milestone
+    description: mileston test final
+    due_on: 2021-04-21T7:55:42Z
+    state: open
 
 # labels:
 #   - name: bug
