@@ -79,7 +79,7 @@
 milestones:
   - title: Hello issue (Milestone)
     description: Changed description of Hello Issue
-    due_on: 2018-03-29T08:00:00Z
+    due_on: 2018-03-29T08:55:40Z
     state: closed
   - title: Milestone Test
     description: mileston test description
