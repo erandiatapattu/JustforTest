@@ -84,11 +84,11 @@ milestones:
   - title: Milestone Test
     description: mileston test description
     due_on: 2024-04-21T7:55:42Z
-    state: open
-  - title: New milestone
+    state: closed
+  - title: Test milestone
     description: mileston test 3
     due_on: 2025-04-21T7:55:42Z
-    state: open
+    state: closed
   - title: Final milestone
     description: mileston test final
     due_on: 2021-04-21T7:55:42Z
