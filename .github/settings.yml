@@ -85,6 +85,10 @@ milestones:
     description: mileston test description
     due_on: 2019-04-21T7:55:42Z
     state: open
+  - title: New milestone
+    description: mileston test 3
+    due_on: 2020-04-21T7:55:42Z
+    state: open
 
 # labels:
 #   - name: bug
