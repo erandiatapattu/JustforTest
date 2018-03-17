@@ -79,19 +79,19 @@
 milestones:
   - title: Hello issue (Milestone)
     description: Changed description of Hello Issue
-    due_on: 2018-03-29T8:00:00Z
+    due_on: 2018-03-29T08:00:00Z
     state: closed
   - title: Milestone Test
     description: mileston test description
-    due_on: 2024-04-21T7:55:42Z
+    due_on: 2024-04-21T07:55:42Z
     state: open
   - title: Test milestone
     description: mileston test 3
-    due_on: 2025-04-21T7:55:42Z
+    due_on: 2025-04-21T07:55:42Z
     state: closed
   - title: Final milestone
     description: mileston test final
-    due_on: 2021-04-21T7:55:42Z
+    due_on: 2021-04-21T07:55:42Z
     state: open
 
 # labels:
