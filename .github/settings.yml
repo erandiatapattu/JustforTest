@@ -93,6 +93,7 @@ milestones:
     description: mileston test final
     due_on: 2025-05-25
     state: open
+  - title: Only title
 
 # labels:
 #   - name: bug
