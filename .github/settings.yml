@@ -79,15 +79,15 @@
 milestones:
   - title: Hello issue (Milestone)
     description: Changed description of Hello Issue
-    due_on: 2022-02-22
+    due_on: 2022-02-22T00.00.00Z
     state: open
   - title: Milestone Test
     description: mileston test description
-    due_on: 2026-06-26
+    due_on: 2026-06-26T00.00.00Z
     state: closed
   - title: Test milestone
     description: mileston test 3
-    due_on: 2025-05-25
+    due_on: 2025-05-25T00.00.00Z
     state: open
   - title: No due milestone
     description: mileston test 3
