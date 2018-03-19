@@ -91,8 +91,8 @@ milestones:
     state: open
   - title: No due milestone
     description: mileston test 3
-  - title: Milestone 2025-05-25T00.00.00Z
-    due_on: 2025-05-25T00:00:00Z
+  - title: Milestone 2025-05-25T05.00.00Z
+    due_on: 2025-05-25T05:00:00Z
 
 
 
