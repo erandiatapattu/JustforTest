@@ -79,7 +79,9 @@
 milestones:
   - title: Hello issue (Milestone)
     description: Changed description of Hello Issue
-    due_on: 2022-02-22T00:00:00Z
+    state: closed
+  - title: Milestone 2
+    description: Changed description of Milestone 2
     state: open
 
 
