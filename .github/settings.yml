@@ -91,6 +91,7 @@ milestones:
     state: closed
   - title: No due milestone
     description: mileston test 3
+    state: open
 
 
 
