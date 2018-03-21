@@ -82,13 +82,13 @@ milestones:
     due_on: 2022-02-22T00:00:00Z
     state: open
   - title: Milestone Test
-    description: mileston test description
+    description: Milestone Test (Updated description)
     due_on: 2026-06-26T00:00:00Z
-    state: closed
-  - title: Test milestone
-    description: mileston test 3
-    due_on: 2025-05-25T00:00:00Z
     state: open
+  - title: Test milestone
+    description: Test milestone Updated description
+    due_on: 2025-05-25T00:00:00Z
+    state: closed
   - title: No due milestone
     description: mileston test 3
   - title: Milestone 2025-05-25T05.00.00Z
