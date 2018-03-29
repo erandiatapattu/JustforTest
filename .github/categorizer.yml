@@ -1,10 +1,16 @@
- labels:
-   - name: High
-     color: CC0000
-     description: High priority
-   - name: Medium
-     color: 336699
-     description: Medium priority
-   - name: Low
-     color: 336699
-     description: Low priority
+ categories:
+  - keyword: high
+    label:
+      name: High
+      color: CC0000
+      description: High priority
+  - keyword: medium
+    label:
+      name: Medium
+      color: 336699
+      description: Medium priority
+  - keyword: medium
+    label:
+      name: Low
+      color: 336699
+      description: Low priority
